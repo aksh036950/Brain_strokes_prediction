@@ -14,6 +14,8 @@ To predict the brain stroke of the persons based on attributes which are listed 
 10) smoking_status: "formerly smoked", "never smoked", "smokes" or "Unknown"*
 11) stroke: 1 if the patient had a stroke or 0 if not
 *Note: "Unknown" in smoking_status means that the information is unavailable for this patient
+## libraries
+used Numpy, Pandas, Matplotlib, Seaborn
 ## Methods utilised in this project
 1. Random Forest Classifier
 2. XGBoost Classifier
